@@ -1,44 +1,5 @@
-<h1 align="center" style="
-    display: inline-block;
-    overflow: hidden;
-    border-right: .15em solid orange;
-    white-space: nowrap;
-    margin: 0 auto;
-    letter-spacing: .05em;
-    width: 0;
-    animation: typing 3.5s steps(30, end) forwards, blink-caret .75s step-end infinite;">
-    Hi 👋, I'm Ridma
-  </h1>
-
-  <h3 align="center" style="
-    display: inline-block;
-    overflow: hidden;
-    border-right: .15em solid orange;
-    white-space: nowrap;
-    margin: 0 auto;
-    letter-spacing: .05em;
-    width: 0;
-    animation: typing2 3s steps(30, end) 3.7s forwards, blink-caret .75s step-end infinite;">
-    An ordinary student who loves to code
-  </h3>
-
-  <!-- Keyframes must remain in <style> tag because they can't be inline -->
-  <style>
-    @keyframes typing {
-      from { width: 0 }
-      to { width: 100% }
-    }
-
-    @keyframes typing2 {
-      from { width: 0 }
-      to { width: 100% }
-    }
-
-    @keyframes blink-caret {
-      from, to { border-color: transparent }
-      50% { border-color: orange }
-    }
-  </style>
+<h1 align="center">Hi 👋, I'm Ridma</h1>
+<h3 align="center">An ordinary student who loves to code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridmasewmini&label=Profile%20views&color=0e75b6&style=flat" alt="ridmasewmini" /> </p>
 
