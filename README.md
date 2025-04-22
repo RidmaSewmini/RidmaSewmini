@@ -1,19 +1,51 @@
-<h1 align="center">Hi 👋, I'm Ridma</h1>
-<h3 align="center">An ordinary student who loves to code</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My GitHub Profile</title>
+</head>
+<body style="font-family: Arial, sans-serif; background-color: #ffffff; color: #2c3e50; margin: 0; padding: 40px; line-height: 1.6;">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ridmasewmini&label=Profile%20views&color=0e75b6&style=flat" alt="ridmasewmini" /> </p>
+  <h1 style="font-size: 2em; margin-bottom: 10px;">👋 Hello there! I'm [Your Name]!</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ridmasewmini" alt="ridmasewmini" /></a> </p>
+  <p>🎓 I'm an IT university student who loves:</p>
+  <ul style="list-style-type: none; padding-left: 0;">
+    <li style="margin-bottom: 5px;"><span style="color: #16a085;">👉</span> 💻 Coding smart solutions</li>
+    <li style="margin-bottom: 5px;"><span style="color: #16a085;">👉</span> 🌐 Building beautiful & functional websites</li>
+    <li><span style="color: #16a085;">👉</span> 🗃️ Managing databases like a pro</li>
+  </ul>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+  <hr style="border: none; border-top: 1px solid #ecf0f1; margin: 30px 0;">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+  <h2 style="color: #34495e; margin-top: 30px;">🛠️ Tech Stack</h2>
+  <ul style="list-style-type: none; padding-left: 0;">
+    <li><span style="color: #16a085;">👉</span> <strong>Languages:</strong> Java, JavaScript, HTML, CSS, SQL</li>
+    <li><span style="color: #16a085;">👉</span> <strong>Tools & Frameworks:</strong> VS Code, MySQL, Git, GitHub, Bootstrap</li>
+    <li><span style="color: #16a085;">👉</span> <strong>Currently Exploring:</strong> React.js, Node.js, and full-stack development</li>
+  </ul>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ridmasewmini&show_icons=true&locale=en&layout=compact" alt="ridmasewmini" /></p>
+  <hr style="border: none; border-top: 1px solid #ecf0f1; margin: 30px 0;">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ridmasewmini&show_icons=true&locale=en" alt="ridmasewmini" /></p>
+  <h2 style="color: #34495e; margin-top: 30px;">🚀 Projects & Passions</h2>
+  <p>I enjoy turning ideas into reality with clean code and intuitive design.<br>
+  From personal websites to university projects — I’m always building something cool!</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ridmasewmini&" alt="ridmasewmini" /></p>
+  <hr style="border: none; border-top: 1px solid #ecf0f1; margin: 30px 0;">
+
+  <h2 style="color: #34495e; margin-top: 30px;">📫 Let's Connect!</h2>
+  <ul style="list-style-type: none; padding-left: 0;">
+    <li><span style="color: #16a085;">👉</span> 💼 <a href="https://www.linkedin.com" style="color: #2980b9; text-decoration: none;">LinkedIn</a></li>
+    <li><span style="color: #16a085;">👉</span> 🌐 <a href="https://yourportfolio.com" style="color: #2980b9; text-decoration: none;">Portfolio</a></li>
+    <li><span style="color: #16a085;">👉</span> 📧 your.email@example.com</li>
+  </ul>
+
+  <hr style="border: none; border-top: 1px solid #ecf0f1; margin: 30px 0;">
+
+  <blockquote style="font-style: italic; color: #7f8c8d; border-left: 4px solid #bdc3c7; margin: 20px 0; padding-left: 15px;">
+    “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+  </blockquote>
+
+  <p>Thanks for stopping by! 🌟</p>
+
+</body>
+</html>
