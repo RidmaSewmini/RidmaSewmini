@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ridma</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Wlcome+to+my+GitHub;I+am+a+learning+web+developer;IT+Student;Love+to+Code;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+GitHub;I+am+a+learning+web+developer;IT+Student;Love+to+Code;Always+learning+new+things"></a>
 </p>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
