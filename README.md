@@ -1,25 +1,29 @@
-<h1 align="center">Hi 👋, I'm Ridma</h1>
+<h1 align="center">👩‍💻 Hey there, I’m Ridma!</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+GitHub;I+am+a+learning+web+developer;IT+Student;Love+to+Code;Always+learning+new+things"></a>
 </p>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-🎓 I’m currently an IT undergraduate at SLIIT
+🎓 IT undergraduate at SLIIT
 
-🌱 I’m learning to become a full-stack web developer
+🌱 Passionate about becoming a Full-Stack Web Developer
 
-💻 I love to code and build new projects
+💻 I enjoy coding, building projects, and learning new technologies
 
-🛠️ Technologies I’m familiar with: Java, Python, PHP, and NodeJS
+🛠️ Tech Stack
+
+Languages: Java | Python | PHP | JavaScript (Node.js)
+
+Exploring: MERN Stack & Modern Web Tools
 
 📂 Check out my work at My Portfolio
 
-📫 Reach me at: ridmasewmini03@gmail.com
+📫 Let’s Connect
 
-📄 Learn more about my experience: My Resume
+📧 ridmasewmini03@gmail.com
 
-⚡ Fun fact: I find bugs faster when I’m not looking for them! 😄
+⚡ Fun fact: I usually find bugs faster when I don’t look for them 😄
 
 
 
