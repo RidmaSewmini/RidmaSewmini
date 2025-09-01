@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+GitHub;I+am+a+learning+web+developer;IT+Student;Love+to+Code;Always+learning+new+things"></a>
 </p>
 
-<img width="600" height="600" align="right" alt="octocat-1756726037879" src="https://github.com/user-attachments/assets/ab764fb4-70bc-435c-9dce-2d299f7a3e54" />
+<img width="500" height="600" align="right" alt="octocat-1756726037879" src="https://github.com/user-attachments/assets/ab764fb4-70bc-435c-9dce-2d299f7a3e54" />
 
 🎓 IT undergraduate at SLIIT
 
